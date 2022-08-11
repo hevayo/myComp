@@ -1,0 +1,2 @@
+# myComp
+Test
